@@ -1,3 +1,3 @@
 # faculty_matching
 
-Paper: [Strategy-Proofness制約下での最大マッチング](./blob/master/paper/paper.pdf)
+Paper: [Strategy-Proofness制約下での最大マッチング](./paper/paper.pdf)
