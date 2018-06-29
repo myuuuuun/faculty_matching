@@ -1,2 +1,3 @@
 # faculty_matching
-honya
+
+Paper: [Strategy-Proofness制約下での最大マッチング](./blob/master/paper/paper.pdf)
